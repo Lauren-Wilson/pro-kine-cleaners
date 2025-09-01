@@ -1,0 +1,2 @@
+Find up to {MAX_ITEMS} public posts/pages for cleaners accepting new clients near {PRIMARY_CITY} (+ {NEARBY_CITIES}; ≤{RADIUS_MI} miles).
+Return CANDIDATES_JSONL and AUDIT as instructed.

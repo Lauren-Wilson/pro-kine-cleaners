@@ -1,0 +1,15 @@
+primary_city: "San Antonio, TX"
+nearby_cities: ["Austin", "New Braunfels"]
+radius_mi: 35
+rate_floor: 18
+sources:
+  craigslist:
+    enabled: true
+    cities_map:
+      "San Antonio, TX": "sanantonio"
+      "Austin": "austin"
+      "New Braunfels": "sanantonio"
+    max_items_per_run: 150
+  agent_mode:
+    enabled: false
+    max_items: 50
